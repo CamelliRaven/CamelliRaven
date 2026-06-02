@@ -1,7 +1,6 @@
 #  Hi, I'm 落晚尘
 <!-- 个性化签名 -->
  计算机专业应届生 |  Vue3 + ECharts + AI 交互实践者 |  Steam 游戏探索家
-
 <!-- 技术栈徽章 -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
   <!-- 前端核心 -->
@@ -30,8 +29,7 @@
 
 ##  我的 GitHub 数据
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamelliRaven&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="CamelliRaven Stats" style="width: 48%; display: inline-block; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamelliRaven&layout=compact&theme=radical&langs_count=6" alt="常用语言统计" style="width: 48%; display: inline-block; margin-left: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CamelliRaven&theme=radical" alt="Repos per Language" width="48%"/>
 </div>
 
 ##  重点项目
